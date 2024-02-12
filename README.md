@@ -13,23 +13,23 @@ The dataset is public on Kaggle. It has multiple formats: we choose to use the 7
 ## Samples from the 'Good' class
 
 <div align="center">
-<img src="assets/12000.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
-<img src="assets/12001.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
-<img src="assets/12002.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
-<img src="assets/12003.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
-<img src="assets/12004.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
-<img src="assets/12005.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
+<img src="assets/12000.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
+<img src="assets/12001.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
+<img src="assets/12002.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
+<img src="assets/12003.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
+<img src="assets/12004.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
+<img src="assets/12005.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
 </div>
 
 ## Samples from the 'Defect' class
 
 <div align="center">
-<img src="assets/18006.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
-<img src="assets/18007.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
-<img src="assets/18010.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
-<img src="assets/18012.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
-<img src="assets/18037.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
-<img src="assets/18140.jpeg" alt="Image 1" style="float: left; width: 10vw;" />
+<img src="assets/18006.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
+<img src="assets/18007.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
+<img src="assets/18010.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
+<img src="assets/18012.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
+<img src="assets/18037.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
+<img src="assets/18140.jpeg" alt="Image 1" style="float: left; width: 8vw;" />
 </div>
 
 ## Methods
