@@ -1,4 +1,4 @@
-# Distributed ...
+# Distributed Defect Classification
 
 ## Big Data and Analytics project at UniBO
 
