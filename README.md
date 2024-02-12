@@ -4,6 +4,10 @@
 
 The aim of this project is to explore and analyze a dataset and perform different machine learning task on top of an Apache Spark cluster built using Docker with a Jupyter Lab interface.
 
+<div align="center">
+    <img src="assets/diagram.PNG"  alt="Tablut Game"/>
+</div>
+
 ## Task and Dataset
 
 The purpose of this project is to investigate how the different components of a Spark + Hadoop distributed environment interact in a distributed image classification task. We want to correctly assign 'good' or 'defect' labels to collected images of textile patches.
